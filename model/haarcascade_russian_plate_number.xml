@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <opencv_storage>
 <cascade>
+
   <stageType>BOOST</stageType>
   <featureType>HAAR</featureType>
   <height>20</height>

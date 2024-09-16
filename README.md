@@ -1,1 +1,1 @@
-# Car-Number-Plates-Detection : Made for Semester Project evaluation
+# Vehical-Number-Plates-Detection : Made for Semester Project evaluation
